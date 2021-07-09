@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloier&layout=compact)](https://github.com/bloier/github-readme-stats)
+
 
 <!--
 **bloier/bloier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
